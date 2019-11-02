@@ -14,7 +14,8 @@ File I/O and other object oriented concepts.
 
 
 ## Built With 
-* Java 
+* Java - The Programming language used
+* Eclipse - The IDE used 
 
 ## Author(s)
 
